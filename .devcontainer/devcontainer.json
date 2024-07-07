@@ -1,0 +1,4 @@
+{
+  "name": "GoSemver Development Container",
+  "image": "ghcr.io/bartventer/go-semver/devcontainer:latest"
+}
